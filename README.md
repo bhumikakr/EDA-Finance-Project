@@ -4,9 +4,9 @@
 
 - Data analysis performed over bank stocks to see how they progressed throughout the financial crisis all the way to early 2016.
 
-- You'll need to install pandas-datareader for this to work! Pandas datareader allows you to read stock information directly from the internet
+- You'll need to install pandas-datareader for this to work! Pandas datareader allows you to read stock information directly from the internet.
   
   
   ```
     Install pandas_datareader: pip install pandas-datareader
-    ```
+  ```
