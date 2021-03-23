@@ -8,5 +8,5 @@
   
   
   ```
-    Install pandas_datareader: `pip install pandas-datareader`
+    Install pandas_datareader: pip install pandas-datareader
     ```
